@@ -29,4 +29,3 @@ Each member will gather additional resources and tutorials on their respective a
 ### Weekly Check-ins: Starting next week, we will hold weekly meetings to track progress, address challenges, and adjust roles as needed.
 
 # Conclusion
-Though we are at the initial stages of our project, we are ready to put our maximum effort wherever we can. We anticipate facing challenges but are prepared to tackle them through research, peer support, and continuous learning.
