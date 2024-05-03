@@ -25,7 +25,10 @@ This report outlines the initial planning phase of our programming assignment fo
 ### Research: 
 Each member will gather additional resources and tutorials on their respective areas of responsibility.
 
-### Initial Setup: Setting up the development environment, including version control repositories and basic project structure.
-### Weekly Check-ins: Starting next week, we will hold weekly meetings to track progress, address challenges, and adjust roles as needed.
+### Initial Setup: 
+Setting up the development environment, including version control repositories and basic project structure.
+
+### Weekly Check-ins: 
+Starting next week, we will hold weekly meetings to track progress, address challenges, and adjust roles as needed.
 
 # Conclusion
